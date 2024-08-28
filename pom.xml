@@ -3,6 +3,7 @@
   <groupId>Demo</groupId>
   <artifactId>Demo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
   <dependencies>
         <!-- Selenium Java -->
         <dependency>
